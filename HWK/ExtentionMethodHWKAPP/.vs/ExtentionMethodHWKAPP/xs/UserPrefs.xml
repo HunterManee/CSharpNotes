@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{73344BE7-13A0-439F-A0E7-560018FBEE99}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExtentionMethodHWK/Program.cs">
+    <Files>
+      <File FileName="ExtentionMethodHWK/Program.cs" Line="14" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExtentionMethodHWKAPP" expanded="True">
+            <Node name="ExtentionMethodHWK" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ExtentionMethodHWK PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

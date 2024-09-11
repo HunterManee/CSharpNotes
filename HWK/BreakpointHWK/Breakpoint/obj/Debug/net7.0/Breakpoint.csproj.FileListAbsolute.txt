@@ -1,0 +1,15 @@
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BreakpointHWK/Breakpoint/bin/Debug/net7.0/Breakpoint
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BreakpointHWK/Breakpoint/bin/Debug/net7.0/Breakpoint.deps.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BreakpointHWK/Breakpoint/bin/Debug/net7.0/Breakpoint.runtimeconfig.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BreakpointHWK/Breakpoint/bin/Debug/net7.0/Breakpoint.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BreakpointHWK/Breakpoint/bin/Debug/net7.0/Breakpoint.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BreakpointHWK/Breakpoint/obj/Debug/net7.0/Breakpoint.csproj.AssemblyReference.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BreakpointHWK/Breakpoint/obj/Debug/net7.0/Breakpoint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BreakpointHWK/Breakpoint/obj/Debug/net7.0/Breakpoint.AssemblyInfoInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BreakpointHWK/Breakpoint/obj/Debug/net7.0/Breakpoint.AssemblyInfo.cs
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BreakpointHWK/Breakpoint/obj/Debug/net7.0/Breakpoint.csproj.CoreCompileInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BreakpointHWK/Breakpoint/obj/Debug/net7.0/Breakpoint.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BreakpointHWK/Breakpoint/obj/Debug/net7.0/refint/Breakpoint.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BreakpointHWK/Breakpoint/obj/Debug/net7.0/Breakpoint.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BreakpointHWK/Breakpoint/obj/Debug/net7.0/Breakpoint.genruntimeconfig.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BreakpointHWK/Breakpoint/obj/Debug/net7.0/ref/Breakpoint.dll

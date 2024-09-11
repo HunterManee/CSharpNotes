@@ -1,0 +1,15 @@
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/VariableHWKApp/VariableHWK/bin/Debug/net7.0/VariableHWK
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/VariableHWKApp/VariableHWK/bin/Debug/net7.0/VariableHWK.deps.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/VariableHWKApp/VariableHWK/bin/Debug/net7.0/VariableHWK.runtimeconfig.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/VariableHWKApp/VariableHWK/bin/Debug/net7.0/VariableHWK.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/VariableHWKApp/VariableHWK/bin/Debug/net7.0/VariableHWK.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/VariableHWKApp/VariableHWK/obj/Debug/net7.0/VariableHWK.csproj.AssemblyReference.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/VariableHWKApp/VariableHWK/obj/Debug/net7.0/VariableHWK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/VariableHWKApp/VariableHWK/obj/Debug/net7.0/VariableHWK.AssemblyInfoInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/VariableHWKApp/VariableHWK/obj/Debug/net7.0/VariableHWK.AssemblyInfo.cs
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/VariableHWKApp/VariableHWK/obj/Debug/net7.0/VariableHWK.csproj.CoreCompileInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/VariableHWKApp/VariableHWK/obj/Debug/net7.0/VariableHWK.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/VariableHWKApp/VariableHWK/obj/Debug/net7.0/refint/VariableHWK.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/VariableHWKApp/VariableHWK/obj/Debug/net7.0/VariableHWK.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/VariableHWKApp/VariableHWK/obj/Debug/net7.0/VariableHWK.genruntimeconfig.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/VariableHWKApp/VariableHWK/obj/Debug/net7.0/ref/VariableHWK.dll

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{55E8F67E-239D-4521-8BC8-295A54841164}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleUI/Program.cs">
+    <Files>
+      <File FileName="ConsoleUI/Program.cs" Line="15" Column="28" />
+      <File FileName="ConsoleUI/ConsoleMessages.cs" Line="27" Column="4" />
+      <File FileName="ConsoleUI/ProcessPerson.cs" Line="38" Column="1" />
+      <File FileName="ConsoleUI/FetchData.cs" Line="33" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InstiatedClassesHWK" expanded="True">
+            <Node name="ConsoleUI" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ArrayHWK/Array/bin/Debug/net7.0/Array
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ArrayHWK/Array/bin/Debug/net7.0/Array.deps.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ArrayHWK/Array/bin/Debug/net7.0/Array.runtimeconfig.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ArrayHWK/Array/bin/Debug/net7.0/Array.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ArrayHWK/Array/bin/Debug/net7.0/Array.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ArrayHWK/Array/obj/Debug/net7.0/Array.csproj.AssemblyReference.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ArrayHWK/Array/obj/Debug/net7.0/Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ArrayHWK/Array/obj/Debug/net7.0/Array.AssemblyInfoInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ArrayHWK/Array/obj/Debug/net7.0/Array.AssemblyInfo.cs
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ArrayHWK/Array/obj/Debug/net7.0/Array.csproj.CoreCompileInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ArrayHWK/Array/obj/Debug/net7.0/Array.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ArrayHWK/Array/obj/Debug/net7.0/refint/Array.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ArrayHWK/Array/obj/Debug/net7.0/Array.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ArrayHWK/Array/obj/Debug/net7.0/Array.genruntimeconfig.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ArrayHWK/Array/obj/Debug/net7.0/ref/Array.dll

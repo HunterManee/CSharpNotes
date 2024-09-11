@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5F0394DD-285B-482E-BEEF-68E8BEAAD6D3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Foreach/Program.cs">
+    <Files>
+      <File FileName="Foreach/Program.cs" Line="29" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ForeachHWK" expanded="True">
+            <Node name="Foreach" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Foreach PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{2D4AB544-A585-409E-BEFE-1DAE6F42F289}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleUI/Program.cs">
+    <Files>
+      <File FileName="ConsoleUI/Program.cs" Line="37" Column="33" />
+      <File FileName="GuestLibrary/Models/GuestModel.cs" Line="16" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BetterGuestBookHWK" expanded="True">
+            <Node name="ConsoleUI" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="GuestLibrary" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

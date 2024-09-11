@@ -1,0 +1,12 @@
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ClassLibraryHWK/PeopleLibrary/bin/Debug/net7.0/PeopleLibrary.deps.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ClassLibraryHWK/PeopleLibrary/bin/Debug/net7.0/PeopleLibrary.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ClassLibraryHWK/PeopleLibrary/bin/Debug/net7.0/PeopleLibrary.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ClassLibraryHWK/PeopleLibrary/obj/Debug/net7.0/PeopleLibrary.csproj.AssemblyReference.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ClassLibraryHWK/PeopleLibrary/obj/Debug/net7.0/PeopleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ClassLibraryHWK/PeopleLibrary/obj/Debug/net7.0/PeopleLibrary.AssemblyInfoInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ClassLibraryHWK/PeopleLibrary/obj/Debug/net7.0/PeopleLibrary.AssemblyInfo.cs
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ClassLibraryHWK/PeopleLibrary/obj/Debug/net7.0/PeopleLibrary.csproj.CoreCompileInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ClassLibraryHWK/PeopleLibrary/obj/Debug/net7.0/PeopleLibrary.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ClassLibraryHWK/PeopleLibrary/obj/Debug/net7.0/refint/PeopleLibrary.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ClassLibraryHWK/PeopleLibrary/obj/Debug/net7.0/PeopleLibrary.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ClassLibraryHWK/PeopleLibrary/obj/Debug/net7.0/ref/PeopleLibrary.dll

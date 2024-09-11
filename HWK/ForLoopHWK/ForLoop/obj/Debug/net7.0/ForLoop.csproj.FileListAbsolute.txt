@@ -1,0 +1,15 @@
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ForLoopHWK/ForLoop/bin/Debug/net7.0/ForLoop
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ForLoopHWK/ForLoop/bin/Debug/net7.0/ForLoop.deps.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ForLoopHWK/ForLoop/bin/Debug/net7.0/ForLoop.runtimeconfig.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ForLoopHWK/ForLoop/bin/Debug/net7.0/ForLoop.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ForLoopHWK/ForLoop/bin/Debug/net7.0/ForLoop.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ForLoopHWK/ForLoop/obj/Debug/net7.0/ForLoop.csproj.AssemblyReference.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ForLoopHWK/ForLoop/obj/Debug/net7.0/ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ForLoopHWK/ForLoop/obj/Debug/net7.0/ForLoop.AssemblyInfoInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ForLoopHWK/ForLoop/obj/Debug/net7.0/ForLoop.AssemblyInfo.cs
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ForLoopHWK/ForLoop/obj/Debug/net7.0/ForLoop.csproj.CoreCompileInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ForLoopHWK/ForLoop/obj/Debug/net7.0/ForLoop.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ForLoopHWK/ForLoop/obj/Debug/net7.0/refint/ForLoop.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ForLoopHWK/ForLoop/obj/Debug/net7.0/ForLoop.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ForLoopHWK/ForLoop/obj/Debug/net7.0/ForLoop.genruntimeconfig.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ForLoopHWK/ForLoop/obj/Debug/net7.0/ref/ForLoop.dll

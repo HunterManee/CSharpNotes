@@ -1,0 +1,15 @@
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ExtentionMethodHWKAPP/ExtentionMethodHWK/bin/Debug/net7.0/ExtentionMethodHWK
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ExtentionMethodHWKAPP/ExtentionMethodHWK/bin/Debug/net7.0/ExtentionMethodHWK.deps.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ExtentionMethodHWKAPP/ExtentionMethodHWK/bin/Debug/net7.0/ExtentionMethodHWK.runtimeconfig.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ExtentionMethodHWKAPP/ExtentionMethodHWK/bin/Debug/net7.0/ExtentionMethodHWK.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ExtentionMethodHWKAPP/ExtentionMethodHWK/bin/Debug/net7.0/ExtentionMethodHWK.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ExtentionMethodHWKAPP/ExtentionMethodHWK/obj/Debug/net7.0/ExtentionMethodHWK.csproj.AssemblyReference.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ExtentionMethodHWKAPP/ExtentionMethodHWK/obj/Debug/net7.0/ExtentionMethodHWK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ExtentionMethodHWKAPP/ExtentionMethodHWK/obj/Debug/net7.0/ExtentionMethodHWK.AssemblyInfoInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ExtentionMethodHWKAPP/ExtentionMethodHWK/obj/Debug/net7.0/ExtentionMethodHWK.AssemblyInfo.cs
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ExtentionMethodHWKAPP/ExtentionMethodHWK/obj/Debug/net7.0/ExtentionMethodHWK.csproj.CoreCompileInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ExtentionMethodHWKAPP/ExtentionMethodHWK/obj/Debug/net7.0/ExtentionMethodHWK.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ExtentionMethodHWKAPP/ExtentionMethodHWK/obj/Debug/net7.0/refint/ExtentionMethodHWK.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ExtentionMethodHWKAPP/ExtentionMethodHWK/obj/Debug/net7.0/ExtentionMethodHWK.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ExtentionMethodHWKAPP/ExtentionMethodHWK/obj/Debug/net7.0/ExtentionMethodHWK.genruntimeconfig.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ExtentionMethodHWKAPP/ExtentionMethodHWK/obj/Debug/net7.0/ref/ExtentionMethodHWK.dll

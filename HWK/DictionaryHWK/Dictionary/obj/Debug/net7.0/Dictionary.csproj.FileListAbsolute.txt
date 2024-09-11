@@ -1,0 +1,15 @@
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DictionaryHWK/Dictionary/bin/Debug/net7.0/Dictionary
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DictionaryHWK/Dictionary/bin/Debug/net7.0/Dictionary.deps.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DictionaryHWK/Dictionary/bin/Debug/net7.0/Dictionary.runtimeconfig.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DictionaryHWK/Dictionary/bin/Debug/net7.0/Dictionary.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DictionaryHWK/Dictionary/bin/Debug/net7.0/Dictionary.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DictionaryHWK/Dictionary/obj/Debug/net7.0/Dictionary.csproj.AssemblyReference.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DictionaryHWK/Dictionary/obj/Debug/net7.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DictionaryHWK/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfoInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DictionaryHWK/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfo.cs
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DictionaryHWK/Dictionary/obj/Debug/net7.0/Dictionary.csproj.CoreCompileInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DictionaryHWK/Dictionary/obj/Debug/net7.0/Dictionary.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DictionaryHWK/Dictionary/obj/Debug/net7.0/refint/Dictionary.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DictionaryHWK/Dictionary/obj/Debug/net7.0/Dictionary.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DictionaryHWK/Dictionary/obj/Debug/net7.0/Dictionary.genruntimeconfig.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DictionaryHWK/Dictionary/obj/Debug/net7.0/ref/Dictionary.dll

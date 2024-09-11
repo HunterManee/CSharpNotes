@@ -1,0 +1,12 @@
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BetterGuestBookHWK/GuestLibrary/bin/Debug/net7.0/GuestLibrary.deps.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BetterGuestBookHWK/GuestLibrary/bin/Debug/net7.0/GuestLibrary.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BetterGuestBookHWK/GuestLibrary/bin/Debug/net7.0/GuestLibrary.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BetterGuestBookHWK/GuestLibrary/obj/Debug/net7.0/GuestLibrary.csproj.AssemblyReference.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BetterGuestBookHWK/GuestLibrary/obj/Debug/net7.0/GuestLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BetterGuestBookHWK/GuestLibrary/obj/Debug/net7.0/GuestLibrary.AssemblyInfoInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BetterGuestBookHWK/GuestLibrary/obj/Debug/net7.0/GuestLibrary.AssemblyInfo.cs
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BetterGuestBookHWK/GuestLibrary/obj/Debug/net7.0/GuestLibrary.csproj.CoreCompileInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BetterGuestBookHWK/GuestLibrary/obj/Debug/net7.0/GuestLibrary.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BetterGuestBookHWK/GuestLibrary/obj/Debug/net7.0/refint/GuestLibrary.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BetterGuestBookHWK/GuestLibrary/obj/Debug/net7.0/GuestLibrary.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BetterGuestBookHWK/GuestLibrary/obj/Debug/net7.0/ref/GuestLibrary.dll

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FB001884-4A5A-4231-832A-1BF52944DE76}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint hitCountMode="GreaterThanOrEqualTo" hitCount="73" file="/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/BreakpointHWK/Breakpoint/Program.cs" relfile="Breakpoint/Program.cs" line="5" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Breakpoint PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Breakpoint/Program.cs">
+    <Files>
+      <File FileName="Breakpoint/Program.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BreakpointHWK" expanded="True">
+            <Node name="Breakpoint" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

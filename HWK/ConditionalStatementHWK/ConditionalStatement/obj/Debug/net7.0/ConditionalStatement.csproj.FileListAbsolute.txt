@@ -1,0 +1,15 @@
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ConditionalStatementHWK/ConditionalStatement/bin/Debug/net7.0/ConditionalStatement
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ConditionalStatementHWK/ConditionalStatement/bin/Debug/net7.0/ConditionalStatement.deps.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ConditionalStatementHWK/ConditionalStatement/bin/Debug/net7.0/ConditionalStatement.runtimeconfig.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ConditionalStatementHWK/ConditionalStatement/bin/Debug/net7.0/ConditionalStatement.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ConditionalStatementHWK/ConditionalStatement/bin/Debug/net7.0/ConditionalStatement.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ConditionalStatementHWK/ConditionalStatement/obj/Debug/net7.0/ConditionalStatement.csproj.AssemblyReference.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ConditionalStatementHWK/ConditionalStatement/obj/Debug/net7.0/ConditionalStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ConditionalStatementHWK/ConditionalStatement/obj/Debug/net7.0/ConditionalStatement.AssemblyInfoInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ConditionalStatementHWK/ConditionalStatement/obj/Debug/net7.0/ConditionalStatement.AssemblyInfo.cs
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ConditionalStatementHWK/ConditionalStatement/obj/Debug/net7.0/ConditionalStatement.csproj.CoreCompileInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ConditionalStatementHWK/ConditionalStatement/obj/Debug/net7.0/ConditionalStatement.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ConditionalStatementHWK/ConditionalStatement/obj/Debug/net7.0/refint/ConditionalStatement.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ConditionalStatementHWK/ConditionalStatement/obj/Debug/net7.0/ConditionalStatement.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ConditionalStatementHWK/ConditionalStatement/obj/Debug/net7.0/ConditionalStatement.genruntimeconfig.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/ConditionalStatementHWK/ConditionalStatement/obj/Debug/net7.0/ref/ConditionalStatement.dll

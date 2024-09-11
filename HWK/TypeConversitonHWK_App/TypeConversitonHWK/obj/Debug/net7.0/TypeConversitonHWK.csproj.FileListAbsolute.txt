@@ -1,0 +1,15 @@
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/TypeConversitonHWK_App/TypeConversitonHWK/bin/Debug/net7.0/TypeConversitonHWK
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/TypeConversitonHWK_App/TypeConversitonHWK/bin/Debug/net7.0/TypeConversitonHWK.deps.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/TypeConversitonHWK_App/TypeConversitonHWK/bin/Debug/net7.0/TypeConversitonHWK.runtimeconfig.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/TypeConversitonHWK_App/TypeConversitonHWK/bin/Debug/net7.0/TypeConversitonHWK.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/TypeConversitonHWK_App/TypeConversitonHWK/bin/Debug/net7.0/TypeConversitonHWK.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/TypeConversitonHWK_App/TypeConversitonHWK/obj/Debug/net7.0/TypeConversitonHWK.csproj.AssemblyReference.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/TypeConversitonHWK_App/TypeConversitonHWK/obj/Debug/net7.0/TypeConversitonHWK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/TypeConversitonHWK_App/TypeConversitonHWK/obj/Debug/net7.0/TypeConversitonHWK.AssemblyInfoInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/TypeConversitonHWK_App/TypeConversitonHWK/obj/Debug/net7.0/TypeConversitonHWK.AssemblyInfo.cs
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/TypeConversitonHWK_App/TypeConversitonHWK/obj/Debug/net7.0/TypeConversitonHWK.csproj.CoreCompileInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/TypeConversitonHWK_App/TypeConversitonHWK/obj/Debug/net7.0/TypeConversitonHWK.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/TypeConversitonHWK_App/TypeConversitonHWK/obj/Debug/net7.0/refint/TypeConversitonHWK.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/TypeConversitonHWK_App/TypeConversitonHWK/obj/Debug/net7.0/TypeConversitonHWK.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/TypeConversitonHWK_App/TypeConversitonHWK/obj/Debug/net7.0/TypeConversitonHWK.genruntimeconfig.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/TypeConversitonHWK_App/TypeConversitonHWK/obj/Debug/net7.0/ref/TypeConversitonHWK.dll

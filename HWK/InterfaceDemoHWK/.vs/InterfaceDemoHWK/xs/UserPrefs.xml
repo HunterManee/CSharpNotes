@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{5F28328E-5164-4112-9322-22ED9F3611DC}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterfaceDemo/Program.cs">
+    <Files>
+      <File FileName="InterfaceDemo/Program.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterfaceDemoHWK" expanded="True">
+            <Node name="InterfaceDemo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.InterfaceDemo PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>

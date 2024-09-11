@@ -1,0 +1,15 @@
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DoWhileLoopHWK/DoWhileLoop/bin/Debug/net7.0/DoWhileLoop
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DoWhileLoopHWK/DoWhileLoop/bin/Debug/net7.0/DoWhileLoop.deps.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DoWhileLoopHWK/DoWhileLoop/bin/Debug/net7.0/DoWhileLoop.runtimeconfig.json
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DoWhileLoopHWK/DoWhileLoop/bin/Debug/net7.0/DoWhileLoop.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DoWhileLoopHWK/DoWhileLoop/bin/Debug/net7.0/DoWhileLoop.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DoWhileLoopHWK/DoWhileLoop/obj/Debug/net7.0/DoWhileLoop.csproj.AssemblyReference.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DoWhileLoopHWK/DoWhileLoop/obj/Debug/net7.0/DoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DoWhileLoopHWK/DoWhileLoop/obj/Debug/net7.0/DoWhileLoop.AssemblyInfoInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DoWhileLoopHWK/DoWhileLoop/obj/Debug/net7.0/DoWhileLoop.AssemblyInfo.cs
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DoWhileLoopHWK/DoWhileLoop/obj/Debug/net7.0/DoWhileLoop.csproj.CoreCompileInputs.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DoWhileLoopHWK/DoWhileLoop/obj/Debug/net7.0/DoWhileLoop.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DoWhileLoopHWK/DoWhileLoop/obj/Debug/net7.0/refint/DoWhileLoop.dll
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DoWhileLoopHWK/DoWhileLoop/obj/Debug/net7.0/DoWhileLoop.pdb
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DoWhileLoopHWK/DoWhileLoop/obj/Debug/net7.0/DoWhileLoop.genruntimeconfig.cache
+/Users/huntermanee/Documents/Dev Resource/C# MasterCourse/HWK/DoWhileLoopHWK/DoWhileLoop/obj/Debug/net7.0/ref/DoWhileLoop.dll
